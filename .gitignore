@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+
+# Environment
+.venv/
+venv/
+
+# IDE
+.vscode/
+
+# Model checkpoints
+checkpoints/
+outputs/
+models/
+
+# Data
+data/
+
+# Logs
+logs/
+wandb/
+
+# Cache
+.cache/
